@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Django, Vue.js** 
 - 💬 Ask me about **Python, Java, Robot Framework** 
 - 📫 How to reach me: **golon338@gmail.com** 
-- 📄 Know about my experiences: [Resume](https://www.overleaf.com/project/65f70c63238d8cc000797c5c)
+- 📄 Know about my experiences: [Resume](https://www.overleaf.com/read/rmqscffwhgdy#c56368)
 - ⚡ Fun fact: **I know about 5 languages, currently learning Italian and German**
 
 <h3 align="left">Connect with me:</h3>
