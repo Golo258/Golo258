@@ -8,12 +8,12 @@
   challenges and can't wait to bring my skills and passion to the next project
 </h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/Golo258/Portfolio)
-- 🌱 I’m currently learning **Django, Vue.js** 
-- 💬 Ask me about **Python, Java, Robot Framework** 
-- 📫 How to reach me: **golon338@gmail.com** 
+- 🔭 I’m currently working on [ProjectsHub](https://github.com/Golo258/ProjectsHub)
+- 🌱 I’m currently learning **Elixir, Erlang**
+- 💬 Ask me about **Python, Java, Robot Framework**
+- 📫 How to reach me: **golon338@gmail.com**
 - 📄 Know about my experiences: [Resume](https://www.overleaf.com/read/rmqscffwhgdy#c56368)
-- ⚡ Fun fact: **I know about 5 languages, currently learning Italian and German**
+- ⚡ Fun fact: **I know about 5 languages, currently learning simultaneously Spanish, Italian and French**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,35 +60,52 @@
         alt="c"
         width="40"
         height="40"
-    /></a>
+    />
+    </a>
     <a href="https://www.w3schools.com/cpp/" 
       ><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
         alt="cplusplus"
         width="40"
         height="40"
-    /></a>
+    />
+    </a>
     <a href="https://www.w3schools.com/cs/" 
       ><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
         alt="csharp"
         width="40"
         height="40"
-    /></a>
+    />
+    </a>
     <a href="https://www.java.com" 
       ><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
         alt="java"
         width="40"
         height="40"
-    /></a>
+    />
+    </a>
     <a href="https://www.python.org" 
       ><img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="python"
         width="40"
         height="40"
-    /></a>
+    />
+    </a>
+    <a href="https://elixir-lang.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" 
+        alt="elixir" 
+        width="40" 
+        height="40"/>
+    </a>
+        <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" 
+        alt="erlang"
+        width="40" 
+        height="40"/>
+    </a>
   </h2>
 </div>
 <div>
