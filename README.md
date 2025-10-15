@@ -8,9 +8,10 @@
   challenges and can't wait to bring my skills and passion to the next project
 </h3>
 
-- 🔭 I’m currently working on [ProjectsHub](https://github.com/Golo258/ProjectsHub)
-- 🌱 I’m currently learning **Elixir, Erlang**
-- 💬 Ask me about **Python, Java, Robot Framework**
+- 🔭 I’m currently working on [PythonProjects](https://github.com/Golo258/PythonProjects) where I collect python notes and play with its syntaxes to utilize during work
+  -  and   [GccProjects](https://github.com/Golo258/GccProjects) Where I am also playing with C++, to achieve my dev goals
+- 🌱 I’m currently learning **Python, C++**
+- 💬 You can ask me about **Python, Groovy, Elixir and Bash**
 - 📫 How to reach me: **golon338@gmail.com**
 - 📄 Know about my experiences: [Resume](https://www.overleaf.com/read/rmqscffwhgdy#c56368)
 - ⚡ Fun fact: **I know about 5 languages, currently learning simultaneously Spanish, Italian and French**
