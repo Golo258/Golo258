@@ -1,339 +1,98 @@
 <h1 align="center">Hi 👋, I'm Grzegorz Golonka</h1>
-<h3 align="center">
-  Currently a computer science student at the pedagogical university, I have
-  rich practical experience. I participated in an internship at a renowned
-  telecommunications company, where I worked with both Java and Python.
-  Additionally, my skills were enhanced through work as an automated tester,
-  utilizing tools such as the Robot Framework and Python. I'm ready for new
-  challenges and can't wait to bring my skills and passion to the next project
-</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [PythonProjects](https://github.com/Golo258/PythonProjects) where I collect python notes and play with its syntaxes to utilize during work
-  -  and   [GccProjects](https://github.com/Golo258/GccProjects) Where I am also playing with C++, to achieve my dev goals
-- 🌱 I’m currently learning **Python, C++**
-- 💬 You can ask me about **Python, Groovy, Elixir and Bash**
+  ## 🎓 Computer Science Engineer (B.Sc.)
+  ### Master's Degree Student at UKEN
+
+  <br/>
+
+  ### 💼 Working Student at Nokia
+  *Python | Groovy | Bash*
+
+  <br/>
+
+ <p align="center" width="80%">
+   With over <b>2 years of commercial experience</b> in software testing and automation, I have built a solid foundation in ensuring code quality. Currently, I work as a CI Developer, building automation scripts and backend solutions to optimize testing workflows.
+   <br/><br/>
+   I am passionate about expanding my technical horizons—currently deep-diving into <b>C++</b>.
+   <br/>
+   <i>Always ready for new engineering challenges and eager to apply my skills in complex projects! 🚀</i>
+ </p>
+
+</div>
+
+- 🔭 **I’m currently working with:** Python, Groovy, Bash
+- 🎓 **Education:** B.Sc. in Computer Science (Completed), M.Sc. (In progress)
+- 🌱 **I’m currently learning:** C++ and advanced software architecture
+- 💬 You can ask me about **Python, Groovy and Bash**
+- 💼 **Experience:** 2+ years in Software Testing & Automation
 - 📫 How to reach me: **golon338@gmail.com**
-- 📄 Know about my experiences: [Resume](https://www.overleaf.com/read/rmqscffwhgdy#c56368)
-- ⚡ Fun fact: **I know about 5 languages, currently learning simultaneously Spanish, Italian and French**
+- 📄 Know about my experiences: [Resume](https://www.overleaf.com/project/68fa52a8dabf23bdd889339e)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/grzegorz-golonka-1b6881269" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="grzegorz-golonka-1b6881269"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/golo258" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="golo258"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.youtube.com/c/youtube.com/@grzesiug" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="youtube.com/@grzesiug"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://discord.gg/golo#6886" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="golo#6886"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-<div>
-  <h2>
-    Programming Languages:
-    <a href="https://www.cprogramming.com/"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-        alt="c"
-        width="40"
-        height="40"
-    />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" 
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-        alt="cplusplus"
-        width="40"
-        height="40"
-    />
-    </a>
-    <a href="https://www.w3schools.com/cs/" 
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-        alt="csharp"
-        width="40"
-        height="40"
-    />
-    </a>
-    <a href="https://www.java.com" 
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        alt="java"
-        width="40"
-        height="40"
-    />
-    </a>
-    <a href="https://www.python.org" 
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
-        width="40"
-        height="40"
-    />
-    </a>
-    <a href="https://elixir-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" 
-        alt="elixir" 
-        width="40" 
-        height="40"/>
-    </a>
-        <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" 
-        alt="erlang"
-        width="40" 
-        height="40"/>
-    </a>
-  </h2>
-</div>
-<div>
-  <h2>
-    Frontend Development:
-    <a href="https://getbootstrap.com"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://www.w3schools.com/css/"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://www.w3.org/html/"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://reactjs.org/"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://vuejs.org/"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-        alt="vuejs"
-        width="40"
-        height="40"
-    /></a>
-  </h2>
-</div>
-<h2>
-  Backend Development:
-  <a href="https://nodejs.org"
-    ><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-  /></a>
-  <a href="https://spring.io/"
-    ><img
-      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-      alt="spring"
-      width="40"
-      height="40"
-  /></a>
-  <a href="https://www.rabbitmq.com"
-    ><img
-      src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-      alt="rabbitMQ"
-      width="40"
-      height="40"
-  /></a>
-</h2>
-<div>
-  <h2>
-    Databases:
-    <a href="https://www.mongodb.com/"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://www.mysql.com/"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://www.postgresql.org"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://www.sqlite.org/"
-      ><img
-        src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-        alt="sqlite"
-        width="40"
-        height="40"
-    /></a>
-  </h2>
-</div>
-<div>
-  <h2>
-    Data Visualization:
-    <a href="https://canvasjs.com"
-      ><img
-        src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
-        alt="canvasjs"
-        width="40"
-        height="40"
-    /></a>
-  </h2>
-</div>
-<div>
-  <h2>
-    Devops:
-    <a href="https://aws.amazon.com"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-        alt="aws"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://azure.microsoft.com/en-in/"
-      ><img
-        src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-        alt="azure"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://www.docker.com/"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        alt="docker"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://www.jenkins.io"
-      ><img
-        src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-        alt="jenkins"
-        width="40"
-        height="40"
-    /></a>
-  </h2>
+<div align="center">
+  <h3>Connect with me:</h3>
+  <a href="https://linkedin.com/in/grzegorz-golonka-1b6881269" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/golo258" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://discordapp.com/users/golo#6886" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </div>
 
-<div>
-  <h2>
-    Testing:
-    <a href="https://docs.pytest.org/en/latest/"
-      ><img
-        src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg"
-        alt="pytest"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://robotframework.org/"
-      ><img
-        src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"
-        alt="Robot Framework"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://junit.org/junit5/"
-      ><img
-        src="https://junit.org/junit5/assets/img/junit5-logo.png"
-        alt="JUnit"
-        width="40"
-        height="40"
-    /></a>
-  </h2>
+<!-- ---------------------------------------- -->
+<div align="center">
+  <h3>Programming Languages</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="groovy" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" alt="elixir" style="margin: 0 5px;" />
 </div>
-<div>
-  <h2>
-    Framework:
-    <a href="https://www.djangoproject.com/"
-      ><img
-        src="https://cdn.worldvectorlogo.com/logos/django.svg"
-        alt="django"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://dotnet.microsoft.com/"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-        alt="dotnet"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://flask.palletsprojects.com/"
-      ><img
-        src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-        alt="flask"
-        width="40"
-        height="40"
-    /></a>
-  </h2>
+
+<div align="center">
+  <h3>DevOps & Cloud</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" style="margin: 0 5px;" />
 </div>
-<div>
-  <h2>
-    Other:
-    <a href="https://git-scm.com/"
-      ><img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="git"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://www.linux.org/"
-      ><img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-        alt="linux"
-        width="40"
-        height="40"
-    /></a>
-    <a href="https://postman.com"
-      ><img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-        alt="postman"
-        width="40"
-        height="40"
-    /></a>
-  </h2>
+
+<div align="center">
+  <h3>Backend & Frameworks</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" style="margin: 0 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="40" alt="rabbitmq" style="margin: 0 5px;" />
 </div>
+
+<div align="center">
+  <h3>Databases</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" style="margin: 0 5px;" />
+</div>
+
+
+<div align="center">
+  <h3>Testing & QA</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="junit" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" style="margin: 0 5px;" />
+</div>
+
+<div align="center">
+  <h3>Frontend Development</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" style="margin: 0 5px;" />
+</div>
+<!-- ---------------------------------------- -->
